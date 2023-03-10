@@ -24,6 +24,7 @@
         <exclude name="PSR12.Traits.UseDeclaration.MultipleImport" />
         <exclude name="PSR12.Operators.OperatorSpacing.NoSpaceBefore" />
         <exclude name="PSR12.Operators.OperatorSpacing.NoSpaceAfter" />
+        <exclude name="PSR12.ControlStructures.ControlStructureSpacing.FirstExpressionLine" />
     </rule>
 
     <rule ref="Generic.Files.LineLength">
